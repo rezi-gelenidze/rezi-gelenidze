@@ -1,19 +1,14 @@
-### <div align="center">Hi! I'm Rezi Gelenidze Full-Stack Developer | React.js/Django/MySQL stack 👨‍💻🚀</div>  
-  
+<h2 align="center">Hi! I'm Rezi Gelenidze, Full-Stack Developer </br>React.js/Django/MySQL stack 👨‍💻🚀  </h1>
 
-- 🚀 I’m currently working on personal startup, e-learning platform [Twiton • თვითონ](https://www.twiton.ge/)  
-  
-
-- 👨‍🎓 I am a Computer Science student in Kutaisi International University (Freshman)  
-  
+<ul>
+  <li>🚀 I’m currently working on personal startup, e-learning platform [Twiton • თვითონ](https://www.twiton.ge/)</li>
+  <li>👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Freshman)</li>
+</ul>
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table><tr><td valign="top">
 
 ### Frontend  
 <div align="center">  
@@ -68,6 +63,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezi-gelenidze&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezi-gelenidze&hide_border=true&layout=donut&theme=dracula" align="center" /></div>  
 
 <br/>  
