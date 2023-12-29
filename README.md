@@ -4,7 +4,7 @@
   <p align="center">👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Freshman)</p>
 
 ## My Development Stack 
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -16,7 +16,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -28,7 +28,7 @@
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -40,7 +40,18 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
+</td><td valign="top" width="25%">
+
+
+
+### Computer Science & DSA  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td></table>  
 
 <br/>  
 
