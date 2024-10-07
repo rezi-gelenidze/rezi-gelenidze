@@ -1,7 +1,7 @@
 <h2 align="center">Hi! I'm Rezi Gelenidze, Full-Stack Developer </br>React.js/Django/MySQL stack 👨‍💻🚀  </h1>
 
   <p align="center">🚀 I’m currently working on personal startup, e-learning platform <a href="https://www.twiton.ge/" target="_blank">twiton • თვითონ</a></p>
-  <p align="center">👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Freshman)</p>
+  <p align="center">👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Sohpomore)</p>
 
 ## My Development Stack 
 <table><tr><td valign="top" width="25%">
