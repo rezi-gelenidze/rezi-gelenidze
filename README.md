@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Rezi Gelenidze, Full-Stack Developer </br>React.js/Django/MySQL stack 👨‍💻🚀  </h1>
 
-  <p align="center">👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Sohpomore)</p>
+  <p align="center">👨‍🎓 I am a Computer Science student in <b>Kutaisi International University</b> (Sophomore)</p>
 
 ## My Development Stack 
 <table><tr><td valign="top" width="25%">
