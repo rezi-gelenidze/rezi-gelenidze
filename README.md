@@ -1,7 +1,7 @@
 <h2 align="center">Hi! I'm Rezi Gelenidze, just an ordinary Geek 👨‍💻  </h1>
 
   <p align="center">👨‍🎓 Computer Science student in <b>Kutaisi International University</b> (Sophomore)</p>
-  <p align="center">👨‍🎓 Java Web Developer Intern in <b>EPAM Systems</p>
+  <p align="center">🎯 Java Web Developer Intern in <b>EPAM Systems</p>
 
 ## My Development Stack 
 <table><tr><td valign="top" width="25%">
